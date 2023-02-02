@@ -52,7 +52,7 @@ body{
     height: 380px;
     margin-top: 0;
     margin-right: 10px;
-    margin-left: 10px;
+    margin-left: z0px;
     padding: 0;
 }
 .luis{
@@ -60,7 +60,7 @@ body{
     height: 380px;
     margin: 0;
     margin-right: 10px;
-    margin-left: 10px;
+    margin-left: 20px;
     padding: 0;
 }
 .josca{
@@ -68,6 +68,6 @@ body{
     height: 380px;
     margin: 0;
     margin-right: 10px;
-    margin-left: 10px;
+    margin-left: 20px;
     padding: 0;
 }
